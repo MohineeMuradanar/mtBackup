@@ -1,0 +1,14 @@
+{
+  "name": "connections",
+  "version": "1.0.0",
+  "description": "mysql database connection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mohinee",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "github:mysqljs/mysql"
+  }
+}

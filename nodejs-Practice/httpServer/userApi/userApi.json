@@ -1,0 +1,80 @@
+[
+    {  "id": 1,
+   "name":"Jack",
+   "age":30,
+   "contactNumbers":[
+      {
+         "type":"Home",
+         "number":"123 123-123"
+      },
+      {
+         "type":"Office",
+         "number":"321 321-321"
+      }
+   ],
+   "spouse":null,
+   "favoriteSports":[
+      "Football",
+      "Cricket "
+   ]
+},
+
+{  "id": 2,
+   "name":"Jill",
+   "age":25,
+   "contactNumbers":[
+      {
+         "type":"Home",
+         "number":"123 123-123"
+      },
+      {
+         "type":"Office",
+         "number":"321 321-321"
+      }
+   ],
+   "spouse":null,
+   "favoriteSports":[
+      "Football",
+      "Cricket"
+   ]
+},
+{  "id": 3,
+   "name":"Priya",
+   "age":35,
+   "contactNumbers":[
+      {
+         "type":"Home",
+         "number":"123 123-123"
+      },
+      {
+         "type":"Office",
+         "number":"321 321-321"
+      }
+   ],
+   "spouse":null,
+   "favoriteSports":[
+      "Football",
+      "Cricket"
+   ]
+},
+
+{  "id": 4,
+   "name":"Radha",
+   "age":20,
+   "contactNumbers":[
+      {
+         "type":"Home",
+         "number":"123 123-123"
+      },
+      {
+         "type":"Office",
+         "number":"321 321-321"
+      }
+   ],
+   "spouse":null,
+   "favoriteSports":[
+      "Football",
+      "Cricket"
+   ]
+}
+]

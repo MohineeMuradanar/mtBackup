@@ -1,0 +1,14 @@
+{
+  "name": "wheredemo",
+  "version": "1.0.0",
+  "description": "where clause demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mohinee",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}

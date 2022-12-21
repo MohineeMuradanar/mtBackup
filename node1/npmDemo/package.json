@@ -1,0 +1,14 @@
+{
+  "name": "npmdemo",
+  "version": "1.0.0",
+  "description": "npm demo",
+  "main": "upperCase.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mohinee",
+  "license": "ISC",
+  "dependencies": {
+    "upper-case": "^2.0.2"
+  }
+}
